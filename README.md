@@ -1,5 +1,5 @@
 # PicoPlaca
-This is a "pico y placa" predictor. To make the program work, just run the predict_picoplaca.py in your favorite IDE or in the
+This is a "pico y placa" predictor implemented using Python3. To make the program work, just run the predict_picoplaca.py script in your favorite IDE or in the
 command line just type:
 $python predict_picoplaca.py
 
