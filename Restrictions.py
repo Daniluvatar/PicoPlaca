@@ -6,6 +6,11 @@ from Utilities import StringOperations
 
 
 class PicoPlaca:
+    
+    """
+    This class has all the restrictions operations
+    required for Pico y Placa
+    """
 
     @staticmethod
     def __timeRestriction():
