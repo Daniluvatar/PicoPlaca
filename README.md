@@ -9,7 +9,7 @@ The program will ask you to enter the plate number, date and time and it will in
 
 To implement the program a *test-driven development* (TDD) approach was used. Therefore, you can check the unit tests on the folder **tests**.
 
-You can also run the unit tests in any of your favorite IDE, just make sure you have *unittest* (https://docs.python.org/3/library/unittest.html) API installed. 
+You can also run the unit tests in any of your favorite IDE, just make sure you have *unittest* API installed. 
 To run the test on the command prompt, for example if you want to run the script test *test_restrictionDay.py*. Just type the following in the terminal:
 
 ```shell
@@ -17,3 +17,5 @@ $python -m unittest -v tests.test_restrictionDay
 ```
 
 The command above, will show you the results of the test directly on the terminal in a verbose way.
+
+For information regarding the *unittest* API, click here https://docs.python.org/3/library/unittest.html
