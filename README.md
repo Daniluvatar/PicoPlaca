@@ -5,7 +5,7 @@ This is a "pico y placa" predictor implemented using Python3. To make the progra
 $python predict_picoplaca.py
 ```
 
-The program will ask you to enter the plate number, date and time and it will inform you whether or not that car can be on the road.
+The program will ask you to enter the plate number, date (DD-MM-YYYY) and time (HH:MM) and it will inform you whether or not that car can be on the road.
 
 To implement the program a *test-driven development* (TDD) approach was used. Therefore, you can check the unit tests on the folder **tests**.
 
